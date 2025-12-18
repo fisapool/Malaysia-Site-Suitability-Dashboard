@@ -1,0 +1,73 @@
+{
+  "district": {
+    "census": {
+      "exists": true,
+      "recordCount": 960,
+      "codeCount": 160
+    },
+    "geojson": {
+      "exists": true,
+      "featureCount": 160,
+      "codeCount": 160
+    }
+  },
+  "parliament": {
+    "census": {
+      "exists": true,
+      "recordCount": 222,
+      "codeCount": 222
+    },
+    "geojson": {
+      "exists": true,
+      "featureCount": 222,
+      "codeCount": 222
+    }
+  },
+  "dun": {
+    "census": {
+      "exists": true,
+      "recordCount": 406,
+      "codeCount": 406
+    },
+    "geojson": {
+      "exists": true,
+      "featureCount": 600,
+      "codeCount": 600
+    }
+  },
+  "issues": [],
+  "summary": {
+    "totalIssues": 1,
+    "missingFiles": [],
+    "codeMismatches": [
+      {
+        "type": "dun",
+        "issue": "geojson_only",
+        "codes": [
+          "1_N.06",
+          "1_N.07",
+          "1_N.21",
+          "1_N.22",
+          "1_N.23",
+          "1_N.28",
+          "1_N.29",
+          "1_N.32",
+          "1_N.33",
+          "1_N.36",
+          "1_N.40",
+          "1_N.41",
+          "1_N.42",
+          "1_N.43",
+          "1_N.44",
+          "1_N.45",
+          "1_N.46",
+          "1_N.47",
+          "1_N.48",
+          "1_N.49"
+        ],
+        "count": 194
+      }
+    ],
+    "missingCodes": []
+  }
+}

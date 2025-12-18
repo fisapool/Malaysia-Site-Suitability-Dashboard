@@ -1,0 +1,57 @@
+{
+  "site_suitability_score": {
+    "id": "site_suitability_score",
+    "name": "Site Suitability Score",
+    "description": "Overall score based on multiple factors.",
+    "shortDescription": "Composite score evaluating location potential for business operations.",
+    "fullExplanation": "**Site Suitability Score**\n\nA composite metric measuring location potential for business operations.\n\nCalculated by combining weighted factors: population, income, competitors, public services, and economic activity.\n\nHigher scores indicate more favorable conditions for business establishment.",
+    "measurementMethod": "Weighted combination of demographic, economic, and infrastructure factors normalized to a 0-100 scale.",
+    "context": "Composite index derived from multiple data sources including census, economic, and infrastructure data."
+  },
+  "population": {
+    "id": "population",
+    "name": "Population Density",
+    "description": "Total population in the area.",
+    "shortDescription": "Total number of residents in the area.",
+    "fullExplanation": "**Population Density**\n\nMeasures the total number of residents within a geographic boundary.\n\nCalculated from census data aggregated at district, parliament, or DUN level.\n\nHigher population indicates greater potential customer base and market size.",
+    "measurementMethod": "Aggregated from census data at administrative boundary level.",
+    "context": "Based on official census records from the Department of Statistics Malaysia (DOSM)."
+  },
+  "avg_income": {
+    "id": "avg_income",
+    "name": "Average Income",
+    "description": "Average household income.",
+    "shortDescription": "Average monthly household income in Malaysian Ringgit.",
+    "fullExplanation": "**Average Income**\n\nMeasures the mean monthly household income within a geographic area.\n\nCalculated from household income surveys (HIES) and census data.\n\nHigher values indicate greater purchasing power and economic capacity.",
+    "measurementMethod": "Calculated from household income and expenditure survey (HIES) data aggregated by administrative boundaries.",
+    "context": "Data sourced from DOSM Household Income and Expenditure Survey."
+  },
+  "competitors": {
+    "id": "competitors",
+    "name": "Competitor Density",
+    "description": "Number of competing businesses.",
+    "shortDescription": "Count of competing businesses in the area.",
+    "fullExplanation": "**Competitor Density**\n\nMeasures the number of competing businesses in the same geographic area.\n\nCounted from business registration and commercial activity records.\n\nHigher counts indicate more competitive market conditions.",
+    "measurementMethod": "Aggregated count of registered businesses in similar categories within the boundary.",
+    "context": "Based on business registration and commercial activity records."
+  },
+  "night_lights": {
+    "id": "night_lights",
+    "name": "Night Lights Intensity",
+    "description": "Economic activity proxy based on night lights.",
+    "shortDescription": "Satellite-measured night light intensity as an economic activity indicator.",
+    "fullExplanation": "**Night Lights Intensity**\n\nMeasures visible light emissions at night from satellite imagery.\n\nUsed as a proxy indicator for economic activity and urbanization.\n\nHigher intensity correlates with greater economic activity and development.",
+    "measurementMethod": "Satellite remote sensing data measuring visible light emissions during nighttime hours.",
+    "context": "Derived from satellite imagery data, commonly used in economic geography research."
+  },
+  "public_services": {
+    "id": "public_services",
+    "name": "Public Services",
+    "description": "Number of public service facilities in the area.",
+    "shortDescription": "Count of public service facilities and infrastructure.",
+    "fullExplanation": "**Public Services**\n\nMeasures the number of public service facilities within a geographic area.\n\nIncludes government offices, healthcare, education, and other essential amenities.\n\nHigher counts indicate better access to public services and infrastructure.",
+    "measurementMethod": "Aggregated count of public service facilities including government offices, healthcare, education, and other public amenities.",
+    "context": "Based on public facility registrations and infrastructure mapping data."
+  }
+}
+

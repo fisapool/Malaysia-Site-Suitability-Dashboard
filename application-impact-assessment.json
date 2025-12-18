@@ -1,0 +1,146 @@
+{
+  "timestamp": "2025-12-18T19:05:18.199Z",
+  "summary": {
+    "totalFeatures": 600,
+    "withData": 406,
+    "withoutData": 194,
+    "coveragePercent": 67.7
+  },
+  "stateBreakdown": {
+    "1": {
+      "total": 56,
+      "withData": 33,
+      "withoutData": 23
+    },
+    "2": {
+      "total": 36,
+      "withData": 25,
+      "withoutData": 11
+    },
+    "3": {
+      "total": 45,
+      "withData": 31,
+      "withoutData": 14
+    },
+    "4": {
+      "total": 28,
+      "withData": 26,
+      "withoutData": 2
+    },
+    "5": {
+      "total": 36,
+      "withData": 33,
+      "withoutData": 3
+    },
+    "6": {
+      "total": 42,
+      "withData": 28,
+      "withoutData": 14
+    },
+    "7": {
+      "total": 40,
+      "withData": 36,
+      "withoutData": 4
+    },
+    "8": {
+      "total": 59,
+      "withData": 51,
+      "withoutData": 8
+    },
+    "9": {
+      "total": 15,
+      "withData": 15,
+      "withoutData": 0
+    },
+    "10": {
+      "total": 56,
+      "withData": 16,
+      "withoutData": 40
+    },
+    "11": {
+      "total": 32,
+      "withData": 20,
+      "withoutData": 12
+    },
+    "12": {
+      "total": 73,
+      "withData": 43,
+      "withoutData": 30
+    },
+    "13": {
+      "total": 82,
+      "withData": 49,
+      "withoutData": 33
+    }
+  },
+  "defaultValues": {
+    "population": 0,
+    "avg_income": 0,
+    "competitors": 0,
+    "public_services": 0,
+    "site_suitability_score": 0,
+    "night_lights": 0
+  },
+  "sampleFeaturesWithoutData": [
+    {
+      "code": "1_N.06",
+      "name": "N.06 Bekok",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.07",
+      "name": "N.07 Bukit Kepong",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.21",
+      "name": "N.21 Parit Yaani",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.22",
+      "name": "N.22 Parit Raja",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.23",
+      "name": "N.23 Penggaram",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.28",
+      "name": "N.28 Mengkibol",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.29",
+      "name": "N.29 Mahkota",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.32",
+      "name": "N.32 Endau",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.33",
+      "name": "N.33 Tenggaroh",
+      "state": "Johor"
+    },
+    {
+      "code": "1_N.36",
+      "name": "N.36 Sedili",
+      "state": "Johor"
+    }
+  ],
+  "issues": [
+    "High percentage of missing data (32.3%) may affect map visualization",
+    "194 DUNs will appear empty/zero on the map"
+  ],
+  "recommendations": [
+    "Consider filtering GeoJSON to only show DUNs with data",
+    "Add visual indicators (e.g., different styling) for DUNs without data",
+    "Add tooltip/legend indicating which DUNs have incomplete data",
+    "Consider data enrichment or interpolation for missing values"
+  ]
+}

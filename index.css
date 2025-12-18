@@ -1,0 +1,27 @@
+/* Global styles for GeoIntel */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+  height: 100vh;
+}
+
+/* Tooltip styles - base styles only, specific tooltips use inline styles */
+[role="tooltip"] {
+  /* Base tooltip styles - individual tooltips can override with inline styles */
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+}
+

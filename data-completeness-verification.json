@@ -1,0 +1,2875 @@
+{
+  "timestamp": "2025-12-18T19:05:09.756Z",
+  "censusYear": "2020",
+  "totalMissingCodes": 194,
+  "validInMapping": 194,
+  "notInMapping": 0,
+  "byState": {
+    "1": [
+      {
+        "code": "1_N.06",
+        "dun": "N.06 Bekok",
+        "parliament": "P.142 Labis"
+      },
+      {
+        "code": "1_N.07",
+        "dun": "N.07 Bukit Kepong",
+        "parliament": "P.143 Pagoh"
+      },
+      {
+        "code": "1_N.21",
+        "dun": "N.21 Parit Yaani",
+        "parliament": "P.149 Sri Gading"
+      },
+      {
+        "code": "1_N.22",
+        "dun": "N.22 Parit Raja",
+        "parliament": "P.149 Sri Gading"
+      },
+      {
+        "code": "1_N.23",
+        "dun": "N.23 Penggaram",
+        "parliament": "P.150 Batu Pahat"
+      },
+      {
+        "code": "1_N.28",
+        "dun": "N.28 Mengkibol",
+        "parliament": "P.152 Kluang"
+      },
+      {
+        "code": "1_N.29",
+        "dun": "N.29 Mahkota",
+        "parliament": "P.152 Kluang"
+      },
+      {
+        "code": "1_N.32",
+        "dun": "N.32 Endau",
+        "parliament": "P.154 Mersing"
+      },
+      {
+        "code": "1_N.33",
+        "dun": "N.33 Tenggaroh",
+        "parliament": "P.154 Mersing"
+      },
+      {
+        "code": "1_N.36",
+        "dun": "N.36 Sedili",
+        "parliament": "P.156 Kota Tinggi"
+      },
+      {
+        "code": "1_N.40",
+        "dun": "N.40 Tiram",
+        "parliament": "P.158 Tebrau"
+      },
+      {
+        "code": "1_N.41",
+        "dun": "N.41 Puteri Wangsa",
+        "parliament": "P.158 Tebrau"
+      },
+      {
+        "code": "1_N.42",
+        "dun": "N.42 Johor Jaya",
+        "parliament": "P.159 Pasir Gudang"
+      },
+      {
+        "code": "1_N.43",
+        "dun": "N.43 Permas",
+        "parliament": "P.159 Pasir Gudang"
+      },
+      {
+        "code": "1_N.44",
+        "dun": "N.44 Larkin",
+        "parliament": "P.160 Johor Bahru"
+      },
+      {
+        "code": "1_N.45",
+        "dun": "N.45 Stulang",
+        "parliament": "P.160 Johor Bahru"
+      },
+      {
+        "code": "1_N.46",
+        "dun": "N.46 Perling",
+        "parliament": "P.161 Pulai"
+      },
+      {
+        "code": "1_N.47",
+        "dun": "N.47 Kempas",
+        "parliament": "P.161 Pulai"
+      },
+      {
+        "code": "1_N.48",
+        "dun": "N.48 Skudai",
+        "parliament": "P.162 Iskandar Puteri"
+      },
+      {
+        "code": "1_N.49",
+        "dun": "N.49 Kota Iskandar",
+        "parliament": "P.162 Iskandar Puteri"
+      },
+      {
+        "code": "1_N.50",
+        "dun": "N.50 Bukit Permai",
+        "parliament": "P.163 Kulai"
+      },
+      {
+        "code": "1_N.51",
+        "dun": "N.51 Bukit Batu",
+        "parliament": "P.163 Kulai"
+      },
+      {
+        "code": "1_N.52",
+        "dun": "N.52 Senai",
+        "parliament": "P.163 Kulai"
+      }
+    ],
+    "2": [
+      {
+        "code": "2_N.05",
+        "dun": "N.05 Bukit Kayu Hitam",
+        "parliament": "P.006 Kubang Pasu"
+      },
+      {
+        "code": "2_N.06",
+        "dun": "N.06 Jitra",
+        "parliament": "P.006 Kubang Pasu"
+      },
+      {
+        "code": "2_N.17",
+        "dun": "N.17 Pengkalan Kundor",
+        "parliament": "P.010 Kuala Kedah"
+      },
+      {
+        "code": "2_N.23",
+        "dun": "N.23 Belantek",
+        "parliament": "P.013 Sik"
+      },
+      {
+        "code": "2_N.25",
+        "dun": "N.25 Bukit Selambau",
+        "parliament": "P.014 Merbok"
+      },
+      {
+        "code": "2_N.26",
+        "dun": "N.26 Tanjong Dawai",
+        "parliament": "P.014 Merbok"
+      },
+      {
+        "code": "2_N.28",
+        "dun": "N.28 Bakar Arang",
+        "parliament": "P.015 Sungai Petani"
+      },
+      {
+        "code": "2_N.29",
+        "dun": "N.29 Sidam",
+        "parliament": "P.015 Sungai Petani"
+      },
+      {
+        "code": "2_N.33",
+        "dun": "N.33 Merbau Pulas",
+        "parliament": "P.017 Padang Serai"
+      },
+      {
+        "code": "2_N.34",
+        "dun": "N.34 Lunas",
+        "parliament": "P.017 Padang Serai"
+      },
+      {
+        "code": "2_N.35",
+        "dun": "N.35 Kulim",
+        "parliament": "P.018 Kulim-Bandar Baharu"
+      }
+    ],
+    "3": [
+      {
+        "code": "3_N.03",
+        "dun": "N.03 Pasir Pekan",
+        "parliament": "P.019 Tumpat"
+      },
+      {
+        "code": "3_N.06",
+        "dun": "N.06 Chempaka",
+        "parliament": "P.020 Pengkalan Chepa"
+      },
+      {
+        "code": "3_N.07",
+        "dun": "N.07 Panchor",
+        "parliament": "P.020 Pengkalan Chepa"
+      },
+      {
+        "code": "3_N.08",
+        "dun": "N.08 Tanjong Mas",
+        "parliament": "P.021 Kota Bharu"
+      },
+      {
+        "code": "3_N.18",
+        "dun": "N.18 Pasir Tumboh",
+        "parliament": "P.024 Kubang Kerian"
+      },
+      {
+        "code": "3_N.19",
+        "dun": "N.19 Demit",
+        "parliament": "P.024 Kubang Kerian"
+      },
+      {
+        "code": "3_N.20",
+        "dun": "N.20 Tawang",
+        "parliament": "P.025 Bachok"
+      },
+      {
+        "code": "3_N.21",
+        "dun": "N.21 Pantai Irama",
+        "parliament": "P.025 Bachok"
+      },
+      {
+        "code": "3_N.26",
+        "dun": "N.26 Bukit Panau",
+        "parliament": "P.027 Tanah Merah"
+      },
+      {
+        "code": "3_N.35",
+        "dun": "N.35 Kemuning",
+        "parliament": "P.029 Machang"
+      },
+      {
+        "code": "3_N.42",
+        "dun": "N.42 Dabong",
+        "parliament": "P.031 Kuala Krai"
+      },
+      {
+        "code": "3_N.43",
+        "dun": "N.43 Nenggiri",
+        "parliament": "P.032 Gua Musang"
+      },
+      {
+        "code": "3_N.44",
+        "dun": "N.44 Paloh",
+        "parliament": "P.032 Gua Musang"
+      },
+      {
+        "code": "3_N.45",
+        "dun": "N.45 Galas",
+        "parliament": "P.032 Gua Musang"
+      }
+    ],
+    "4": [
+      {
+        "code": "4_N.13",
+        "dun": "N.13 Paya Rumput",
+        "parliament": "P.136 Tangga Batu"
+      },
+      {
+        "code": "4_N.19",
+        "dun": "N.19 Kesidang",
+        "parliament": "P.138 Kota Melaka"
+      }
+    ],
+    "5": [
+      {
+        "code": "5_N.10",
+        "dun": "N.10 Nilai",
+        "parliament": "P.128 Seremban"
+      },
+      {
+        "code": "5_N.21",
+        "dun": "N.21 Bukit Kepayang",
+        "parliament": "P.130 Rasah"
+      },
+      {
+        "code": "5_N.25",
+        "dun": "N.25 Paroi",
+        "parliament": "P.131 Rembau"
+      }
+    ],
+    "6": [
+      {
+        "code": "6_N.02",
+        "dun": "N.02 Jelai",
+        "parliament": "P.078 Cameron Highlands"
+      },
+      {
+        "code": "6_N.03",
+        "dun": "N.03 Padang Tengku",
+        "parliament": "P.079 Lipis"
+      },
+      {
+        "code": "6_N.06",
+        "dun": "N.06 Batu Talam",
+        "parliament": "P.080 Raub"
+      },
+      {
+        "code": "6_N.09",
+        "dun": "N.09 Tahan",
+        "parliament": "P.081 Jerantut"
+      },
+      {
+        "code": "6_N.12",
+        "dun": "N.12 Beserah",
+        "parliament": "P.082 Indera Mahkota"
+      },
+      {
+        "code": "6_N.13",
+        "dun": "N.13 Semambu",
+        "parliament": "P.082 Indera Mahkota"
+      },
+      {
+        "code": "6_N.15",
+        "dun": "N.15 Tanjung Lumpur",
+        "parliament": "P.083 Kuantan"
+      },
+      {
+        "code": "6_N.17",
+        "dun": "N.17 Sungai Lembing",
+        "parliament": "P.084 Paya Besar"
+      },
+      {
+        "code": "6_N.18",
+        "dun": "N.18 Lepar",
+        "parliament": "P.084 Paya Besar"
+      },
+      {
+        "code": "6_N.22",
+        "dun": "N.22 Bebar",
+        "parliament": "P.085 Pekan"
+      },
+      {
+        "code": "6_N.39",
+        "dun": "N.39 Kemayan",
+        "parliament": "P.090 Bera"
+      },
+      {
+        "code": "6_N.40",
+        "dun": "N.40 Bukit Ibam",
+        "parliament": "P.091 Rompin"
+      },
+      {
+        "code": "6_N.41",
+        "dun": "N.41 Muadzam Shah",
+        "parliament": "P.091 Rompin"
+      },
+      {
+        "code": "6_N.42",
+        "dun": "N.42 Tioman",
+        "parliament": "P.091 Rompin"
+      }
+    ],
+    "7": [
+      {
+        "code": "7_N.10",
+        "dun": "N.10 Seberang Jaya",
+        "parliament": "P.044 Permatang Pauh"
+      },
+      {
+        "code": "7_N.14",
+        "dun": "N.14 Machang Bubuk",
+        "parliament": "P.045 Bukit Mertajam"
+      },
+      {
+        "code": "7_N.34",
+        "dun": "N.34 Paya Terubong",
+        "parliament": "P.051 Bukit Gelugor"
+      },
+      {
+        "code": "7_N.38",
+        "dun": "N.38 Bayan Lepas",
+        "parliament": "P.053 Balik Pulau"
+      }
+    ],
+    "8": [
+      {
+        "code": "8_N.02",
+        "dun": "N.02 Temengor",
+        "parliament": "P.054 Gerik"
+      },
+      {
+        "code": "8_N.03",
+        "dun": "N.03 Kenering",
+        "parliament": "P.055 Lenggong"
+      },
+      {
+        "code": "8_N.21",
+        "dun": "N.21 Lintang",
+        "parliament": "P.062 Sungai Siput"
+      },
+      {
+        "code": "8_N.23",
+        "dun": "N.23 Manjoi",
+        "parliament": "P.063 Tambun"
+      },
+      {
+        "code": "8_N.24",
+        "dun": "N.24 Hulu Kinta",
+        "parliament": "P.063 Tambun"
+      },
+      {
+        "code": "8_N.45",
+        "dun": "N.45 Simpang Pulai",
+        "parliament": "P.071 Gopeng"
+      },
+      {
+        "code": "8_N.51",
+        "dun": "N.51 Pasir Panjang",
+        "parliament": "P.074 Lumut"
+      },
+      {
+        "code": "8_N.59",
+        "dun": "N.59 Behrang",
+        "parliament": "P.077 Tanjong Malim"
+      }
+    ],
+    "10": [
+      {
+        "code": "10_N.07",
+        "dun": "N.07 Batang Kali",
+        "parliament": "P.094 Hulu Selangor"
+      },
+      {
+        "code": "10_N.12",
+        "dun": "N.12 Jeram",
+        "parliament": "P.096 Kuala Selangor"
+      },
+      {
+        "code": "10_N.13",
+        "dun": "N.13 Kuang",
+        "parliament": "P.097 Selayang"
+      },
+      {
+        "code": "10_N.14",
+        "dun": "N.14 Rawang",
+        "parliament": "P.097 Selayang"
+      },
+      {
+        "code": "10_N.15",
+        "dun": "N.15 Taman Templer",
+        "parliament": "P.097 Selayang"
+      },
+      {
+        "code": "10_N.17",
+        "dun": "N.17 Gombak Setia",
+        "parliament": "P.098 Gombak"
+      },
+      {
+        "code": "10_N.18",
+        "dun": "N.18 Hulu Kelang",
+        "parliament": "P.098 Gombak"
+      },
+      {
+        "code": "10_N.19",
+        "dun": "N.19 Bukit Antarabangsa",
+        "parliament": "P.099 Ampang"
+      },
+      {
+        "code": "10_N.20",
+        "dun": "N.20 Lembah Jaya",
+        "parliament": "P.099 Ampang"
+      },
+      {
+        "code": "10_N.21",
+        "dun": "N.21 Pandan Indah",
+        "parliament": "P.100 Pandan"
+      },
+      {
+        "code": "10_N.22",
+        "dun": "N.22 Teratai",
+        "parliament": "P.100 Pandan"
+      },
+      {
+        "code": "10_N.23",
+        "dun": "N.23 Dusun Tua",
+        "parliament": "P.101 Hulu Langat"
+      },
+      {
+        "code": "10_N.24",
+        "dun": "N.24 Semenyih",
+        "parliament": "P.101 Hulu Langat"
+      },
+      {
+        "code": "10_N.25",
+        "dun": "N.25 Kajang",
+        "parliament": "P.102 Bangi"
+      },
+      {
+        "code": "10_N.26",
+        "dun": "N.26 Sungai Ramal",
+        "parliament": "P.102 Bangi"
+      },
+      {
+        "code": "10_N.27",
+        "dun": "N.27 Balakong",
+        "parliament": "P.102 Bangi"
+      },
+      {
+        "code": "10_N.28",
+        "dun": "N.28 Seri Kembangan",
+        "parliament": "P.103 Puchong"
+      },
+      {
+        "code": "10_N.29",
+        "dun": "N.29 Seri Serdang",
+        "parliament": "P.103 Puchong"
+      },
+      {
+        "code": "10_N.30",
+        "dun": "N.30 Kinrara",
+        "parliament": "P.104 Subang"
+      },
+      {
+        "code": "10_N.31",
+        "dun": "N.31 Subang Jaya",
+        "parliament": "P.104 Subang"
+      },
+      {
+        "code": "10_N.32",
+        "dun": "N.32 Seri Setia",
+        "parliament": "P.105 Petaling Jaya"
+      },
+      {
+        "code": "10_N.33",
+        "dun": "N.33 Taman Medan",
+        "parliament": "P.105 Petaling Jaya"
+      },
+      {
+        "code": "10_N.34",
+        "dun": "N.34 Bukit Gasing",
+        "parliament": "P.105 Petaling Jaya"
+      },
+      {
+        "code": "10_N.36",
+        "dun": "N.36 Bandar Utama",
+        "parliament": "P.106 Damansara"
+      },
+      {
+        "code": "10_N.37",
+        "dun": "N.37 Bukit Lanjan",
+        "parliament": "P.106 Damansara"
+      },
+      {
+        "code": "10_N.38",
+        "dun": "N.38 Paya Jaras",
+        "parliament": "P.107 Sungai Buloh"
+      },
+      {
+        "code": "10_N.39",
+        "dun": "N.39 Kota Damansara",
+        "parliament": "P.107 Sungai Buloh"
+      },
+      {
+        "code": "10_N.40",
+        "dun": "N.40 Kota Anggerik",
+        "parliament": "P.108 Shah Alam"
+      },
+      {
+        "code": "10_N.41",
+        "dun": "N.41 Batu Tiga",
+        "parliament": "P.108 Shah Alam"
+      },
+      {
+        "code": "10_N.42",
+        "dun": "N.42 Meru",
+        "parliament": "P.109 Kapar"
+      },
+      {
+        "code": "10_N.43",
+        "dun": "N.43 Sementa",
+        "parliament": "P.109 Kapar"
+      },
+      {
+        "code": "10_N.44",
+        "dun": "N.44 Selat Klang",
+        "parliament": "P.109 Kapar"
+      },
+      {
+        "code": "10_N.45",
+        "dun": "N.45 Bandar Baru Klang",
+        "parliament": "P.110 Klang"
+      },
+      {
+        "code": "10_N.46",
+        "dun": "N.46 Pelabuhan Klang",
+        "parliament": "P.110 Klang"
+      },
+      {
+        "code": "10_N.47",
+        "dun": "N.47 Pandamaran",
+        "parliament": "P.110 Klang"
+      },
+      {
+        "code": "10_N.48",
+        "dun": "N.48 Sentosa",
+        "parliament": "P.111 Kota Raja"
+      },
+      {
+        "code": "10_N.49",
+        "dun": "N.49 Sungai Kandis",
+        "parliament": "P.111 Kota Raja"
+      },
+      {
+        "code": "10_N.50",
+        "dun": "N.50 Kota Kemuning",
+        "parliament": "P.111 Kota Raja"
+      },
+      {
+        "code": "10_N.51",
+        "dun": "N.51 Sijangkang",
+        "parliament": "P.112 Kuala Langat"
+      },
+      {
+        "code": "10_N.55",
+        "dun": "N.55 Dengkil",
+        "parliament": "P.113 Sepang"
+      }
+    ],
+    "11": [
+      {
+        "code": "11_N.02",
+        "dun": "N.02 Kota Putera",
+        "parliament": "P.033 Besut"
+      },
+      {
+        "code": "11_N.09",
+        "dun": "N.09 Tepuh",
+        "parliament": "P.035 Kuala Nerus"
+      },
+      {
+        "code": "11_N.11",
+        "dun": "N.11 Seberang Takir",
+        "parliament": "P.035 Kuala Nerus"
+      },
+      {
+        "code": "11_N.16",
+        "dun": "N.16 Batu Buruk",
+        "parliament": "P.036 Kuala Terengganu"
+      },
+      {
+        "code": "11_N.17",
+        "dun": "N.17 Alur Limbat",
+        "parliament": "P.037 Marang"
+      },
+      {
+        "code": "11_N.21",
+        "dun": "N.21 Telemung",
+        "parliament": "P.038 Hulu Terengganu"
+      },
+      {
+        "code": "11_N.25",
+        "dun": "N.25 Bukit Besi",
+        "parliament": "P.039 Dungun"
+      },
+      {
+        "code": "11_N.26",
+        "dun": "N.26 Rantau Abang",
+        "parliament": "P.039 Dungun"
+      },
+      {
+        "code": "11_N.28",
+        "dun": "N.28 Paka",
+        "parliament": "P.039 Dungun"
+      },
+      {
+        "code": "11_N.30",
+        "dun": "N.30 Kijal",
+        "parliament": "P.040 Kemaman"
+      },
+      {
+        "code": "11_N.31",
+        "dun": "N.31 Cukai",
+        "parliament": "P.040 Kemaman"
+      },
+      {
+        "code": "11_N.32",
+        "dun": "N.32 Air Putih",
+        "parliament": "P.040 Kemaman"
+      }
+    ],
+    "12": [
+      {
+        "code": "12_N.02",
+        "dun": "N.02 Bengkoka",
+        "parliament": "P.167 Kudat"
+      },
+      {
+        "code": "12_N.16",
+        "dun": "N.16 Karambunai",
+        "parliament": "P.171 Sepanggar"
+      },
+      {
+        "code": "12_N.18",
+        "dun": "N.18 Inanam",
+        "parliament": "P.171 Sepanggar"
+      },
+      {
+        "code": "12_N.25",
+        "dun": "N.25 Kapayan",
+        "parliament": "P.174 Penampang"
+      },
+      {
+        "code": "12_N.34",
+        "dun": "N.34 Lumadan",
+        "parliament": "P.178 Sipitang"
+      },
+      {
+        "code": "12_N.35",
+        "dun": "N.35 Sindumin",
+        "parliament": "P.178 Sipitang"
+      },
+      {
+        "code": "12_N.36",
+        "dun": "N.36 Kundasang",
+        "parliament": "P.179 Ranau"
+      },
+      {
+        "code": "12_N.38",
+        "dun": "N.38 Paginatan",
+        "parliament": "P.179 Ranau"
+      },
+      {
+        "code": "12_N.39",
+        "dun": "N.39 Tambunan",
+        "parliament": "P.180 Keningau"
+      },
+      {
+        "code": "12_N.43",
+        "dun": "N.43 Kemabong",
+        "parliament": "P.181 Tenom"
+      },
+      {
+        "code": "12_N.44",
+        "dun": "N.44 Tulid",
+        "parliament": "P.182 Pensiangan"
+      },
+      {
+        "code": "12_N.45",
+        "dun": "N.45 Sook",
+        "parliament": "P.182 Pensiangan"
+      },
+      {
+        "code": "12_N.46",
+        "dun": "N.46 Nabawan",
+        "parliament": "P.182 Pensiangan"
+      },
+      {
+        "code": "12_N.47",
+        "dun": "N.47 Telupid",
+        "parliament": "P.183 Beluran"
+      },
+      {
+        "code": "12_N.48",
+        "dun": "N.48 Sugut",
+        "parliament": "P.183 Beluran"
+      },
+      {
+        "code": "12_N.49",
+        "dun": "N.49 Labuk",
+        "parliament": "P.183 Beluran"
+      },
+      {
+        "code": "12_N.52",
+        "dun": "N.52 Sungai Sibuga",
+        "parliament": "P.184 Libaran"
+      },
+      {
+        "code": "12_N.53",
+        "dun": "N.53 Sekong",
+        "parliament": "P.185 Batu Sapi"
+      },
+      {
+        "code": "12_N.55",
+        "dun": "N.55 Elopura",
+        "parliament": "P.186 Sandakan"
+      },
+      {
+        "code": "12_N.57",
+        "dun": "N.57 Kuamut",
+        "parliament": "P.187 Kinabatangan"
+      },
+      {
+        "code": "12_N.58",
+        "dun": "N.58 Lamag",
+        "parliament": "P.187 Kinabatangan"
+      },
+      {
+        "code": "12_N.59",
+        "dun": "N.59 Sukau",
+        "parliament": "P.187 Kinabatangan"
+      },
+      {
+        "code": "12_N.60",
+        "dun": "N.60 Tungku",
+        "parliament": "P.188 Lahad Datu"
+      },
+      {
+        "code": "12_N.61",
+        "dun": "N.61 Segama",
+        "parliament": "P.188 Lahad Datu"
+      },
+      {
+        "code": "12_N.62",
+        "dun": "N.62 Silam",
+        "parliament": "P.188 Lahad Datu"
+      },
+      {
+        "code": "12_N.63",
+        "dun": "N.63 Kunak",
+        "parliament": "P.188 Lahad Datu"
+      },
+      {
+        "code": "12_N.66",
+        "dun": "N.66 Bugaya",
+        "parliament": "P.189 Semporna"
+      },
+      {
+        "code": "12_N.67",
+        "dun": "N.67 Balung",
+        "parliament": "P.190 Tawau"
+      },
+      {
+        "code": "12_N.68",
+        "dun": "N.68 Apas",
+        "parliament": "P.190 Tawau"
+      },
+      {
+        "code": "12_N.73",
+        "dun": "N.73 Sebatik",
+        "parliament": "P.191 Kalabakan"
+      }
+    ],
+    "13": [
+      {
+        "code": "13_N.01",
+        "dun": "N.01 Opar",
+        "parliament": "P.192 Mas Gading"
+      },
+      {
+        "code": "13_N.06",
+        "dun": "N.06 Tupong",
+        "parliament": "P.194 Petra Jaya"
+      },
+      {
+        "code": "13_N.14",
+        "dun": "N.14 Batu Kawah",
+        "parliament": "P.196 Stampin"
+      },
+      {
+        "code": "13_N.17",
+        "dun": "N.17 Stakan",
+        "parliament": "P.197 Kota Samarahan"
+      },
+      {
+        "code": "13_N.30",
+        "dun": "N.30 Balai Ringin",
+        "parliament": "P.202 Sri Aman"
+      },
+      {
+        "code": "13_N.31",
+        "dun": "N.31 Bukit Begunan",
+        "parliament": "P.202 Sri Aman"
+      },
+      {
+        "code": "13_N.33",
+        "dun": "N.33 Engkilili",
+        "parliament": "P.203 Lubok Antu"
+      },
+      {
+        "code": "13_N.34",
+        "dun": "N.34 Batang Ai",
+        "parliament": "P.203 Lubok Antu"
+      },
+      {
+        "code": "13_N.42",
+        "dun": "N.42 Semop",
+        "parliament": "P.206 Tanjong Manis"
+      },
+      {
+        "code": "13_N.43",
+        "dun": "N.43 Daro",
+        "parliament": "P.207 Igan"
+      },
+      {
+        "code": "13_N.48",
+        "dun": "N.48 Meluan",
+        "parliament": "P.209 Julau"
+      },
+      {
+        "code": "13_N.49",
+        "dun": "N.49 Ngemah",
+        "parliament": "P.210 Kanowit"
+      },
+      {
+        "code": "13_N.53",
+        "dun": "N.53 Bawang Assan",
+        "parliament": "P.212 Sibu"
+      },
+      {
+        "code": "13_N.55",
+        "dun": "N.55 Nangka",
+        "parliament": "P.212 Sibu"
+      },
+      {
+        "code": "13_N.57",
+        "dun": "N.57 Tellian",
+        "parliament": "P.213 Mukah"
+      },
+      {
+        "code": "13_N.58",
+        "dun": "N.58 Balingian",
+        "parliament": "P.213 Mukah"
+      },
+      {
+        "code": "13_N.59",
+        "dun": "N.59 Tamin",
+        "parliament": "P.214 Selangau"
+      },
+      {
+        "code": "13_N.60",
+        "dun": "N.60 Kakus",
+        "parliament": "P.214 Selangau"
+      },
+      {
+        "code": "13_N.61",
+        "dun": "N.61 Pelagus",
+        "parliament": "P.215 Kapit"
+      },
+      {
+        "code": "13_N.62",
+        "dun": "N.62 Katibas",
+        "parliament": "P.215 Kapit"
+      },
+      {
+        "code": "13_N.64",
+        "dun": "N.64 Baleh",
+        "parliament": "P.216 Hulu Rajang"
+      },
+      {
+        "code": "13_N.65",
+        "dun": "N.65 Belaga",
+        "parliament": "P.216 Hulu Rajang"
+      },
+      {
+        "code": "13_N.66",
+        "dun": "N.66 Murum",
+        "parliament": "P.216 Hulu Rajang"
+      },
+      {
+        "code": "13_N.68",
+        "dun": "N.68 Tanjong Batu",
+        "parliament": "P.217 Bintulu"
+      },
+      {
+        "code": "13_N.69",
+        "dun": "N.69 Kemena",
+        "parliament": "P.217 Bintulu"
+      },
+      {
+        "code": "13_N.70",
+        "dun": "N.70 Samalaju",
+        "parliament": "P.217 Bintulu"
+      },
+      {
+        "code": "13_N.71",
+        "dun": "N.71 Bekenu",
+        "parliament": "P.218 Sibuti"
+      },
+      {
+        "code": "13_N.75",
+        "dun": "N.75 Senadin",
+        "parliament": "P.219 Miri"
+      },
+      {
+        "code": "13_N.76",
+        "dun": "N.76 Marudi",
+        "parliament": "P.220 Baram"
+      },
+      {
+        "code": "13_N.77",
+        "dun": "N.77 Telang Usan",
+        "parliament": "P.220 Baram"
+      },
+      {
+        "code": "13_N.78",
+        "dun": "N.78 Mulu",
+        "parliament": "P.220 Baram"
+      },
+      {
+        "code": "13_N.80",
+        "dun": "N.80 Batu Danau",
+        "parliament": "P.221 Limbang"
+      },
+      {
+        "code": "13_N.81",
+        "dun": "N.81 Ba`Kelalan",
+        "parliament": "P.222 Lawas"
+      }
+    ]
+  },
+  "byParliament": {
+    "P.142": [
+      {
+        "code": "1_N.06",
+        "dun": "N.06 Bekok",
+        "state": "Johor"
+      }
+    ],
+    "P.143": [
+      {
+        "code": "1_N.07",
+        "dun": "N.07 Bukit Kepong",
+        "state": "Johor"
+      }
+    ],
+    "P.149": [
+      {
+        "code": "1_N.21",
+        "dun": "N.21 Parit Yaani",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.22",
+        "dun": "N.22 Parit Raja",
+        "state": "Johor"
+      }
+    ],
+    "P.150": [
+      {
+        "code": "1_N.23",
+        "dun": "N.23 Penggaram",
+        "state": "Johor"
+      }
+    ],
+    "P.152": [
+      {
+        "code": "1_N.28",
+        "dun": "N.28 Mengkibol",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.29",
+        "dun": "N.29 Mahkota",
+        "state": "Johor"
+      }
+    ],
+    "P.154": [
+      {
+        "code": "1_N.32",
+        "dun": "N.32 Endau",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.33",
+        "dun": "N.33 Tenggaroh",
+        "state": "Johor"
+      }
+    ],
+    "P.156": [
+      {
+        "code": "1_N.36",
+        "dun": "N.36 Sedili",
+        "state": "Johor"
+      }
+    ],
+    "P.158": [
+      {
+        "code": "1_N.40",
+        "dun": "N.40 Tiram",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.41",
+        "dun": "N.41 Puteri Wangsa",
+        "state": "Johor"
+      }
+    ],
+    "P.159": [
+      {
+        "code": "1_N.42",
+        "dun": "N.42 Johor Jaya",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.43",
+        "dun": "N.43 Permas",
+        "state": "Johor"
+      }
+    ],
+    "P.160": [
+      {
+        "code": "1_N.44",
+        "dun": "N.44 Larkin",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.45",
+        "dun": "N.45 Stulang",
+        "state": "Johor"
+      }
+    ],
+    "P.161": [
+      {
+        "code": "1_N.46",
+        "dun": "N.46 Perling",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.47",
+        "dun": "N.47 Kempas",
+        "state": "Johor"
+      }
+    ],
+    "P.162": [
+      {
+        "code": "1_N.48",
+        "dun": "N.48 Skudai",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.49",
+        "dun": "N.49 Kota Iskandar",
+        "state": "Johor"
+      }
+    ],
+    "P.163": [
+      {
+        "code": "1_N.50",
+        "dun": "N.50 Bukit Permai",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.51",
+        "dun": "N.51 Bukit Batu",
+        "state": "Johor"
+      },
+      {
+        "code": "1_N.52",
+        "dun": "N.52 Senai",
+        "state": "Johor"
+      }
+    ],
+    "P.006": [
+      {
+        "code": "2_N.05",
+        "dun": "N.05 Bukit Kayu Hitam",
+        "state": "Kedah"
+      },
+      {
+        "code": "2_N.06",
+        "dun": "N.06 Jitra",
+        "state": "Kedah"
+      }
+    ],
+    "P.010": [
+      {
+        "code": "2_N.17",
+        "dun": "N.17 Pengkalan Kundor",
+        "state": "Kedah"
+      }
+    ],
+    "P.013": [
+      {
+        "code": "2_N.23",
+        "dun": "N.23 Belantek",
+        "state": "Kedah"
+      }
+    ],
+    "P.014": [
+      {
+        "code": "2_N.25",
+        "dun": "N.25 Bukit Selambau",
+        "state": "Kedah"
+      },
+      {
+        "code": "2_N.26",
+        "dun": "N.26 Tanjong Dawai",
+        "state": "Kedah"
+      }
+    ],
+    "P.015": [
+      {
+        "code": "2_N.28",
+        "dun": "N.28 Bakar Arang",
+        "state": "Kedah"
+      },
+      {
+        "code": "2_N.29",
+        "dun": "N.29 Sidam",
+        "state": "Kedah"
+      }
+    ],
+    "P.017": [
+      {
+        "code": "2_N.33",
+        "dun": "N.33 Merbau Pulas",
+        "state": "Kedah"
+      },
+      {
+        "code": "2_N.34",
+        "dun": "N.34 Lunas",
+        "state": "Kedah"
+      }
+    ],
+    "P.018": [
+      {
+        "code": "2_N.35",
+        "dun": "N.35 Kulim",
+        "state": "Kedah"
+      }
+    ],
+    "P.019": [
+      {
+        "code": "3_N.03",
+        "dun": "N.03 Pasir Pekan",
+        "state": "Kelantan"
+      }
+    ],
+    "P.020": [
+      {
+        "code": "3_N.06",
+        "dun": "N.06 Chempaka",
+        "state": "Kelantan"
+      },
+      {
+        "code": "3_N.07",
+        "dun": "N.07 Panchor",
+        "state": "Kelantan"
+      }
+    ],
+    "P.021": [
+      {
+        "code": "3_N.08",
+        "dun": "N.08 Tanjong Mas",
+        "state": "Kelantan"
+      }
+    ],
+    "P.024": [
+      {
+        "code": "3_N.18",
+        "dun": "N.18 Pasir Tumboh",
+        "state": "Kelantan"
+      },
+      {
+        "code": "3_N.19",
+        "dun": "N.19 Demit",
+        "state": "Kelantan"
+      }
+    ],
+    "P.025": [
+      {
+        "code": "3_N.20",
+        "dun": "N.20 Tawang",
+        "state": "Kelantan"
+      },
+      {
+        "code": "3_N.21",
+        "dun": "N.21 Pantai Irama",
+        "state": "Kelantan"
+      }
+    ],
+    "P.027": [
+      {
+        "code": "3_N.26",
+        "dun": "N.26 Bukit Panau",
+        "state": "Kelantan"
+      }
+    ],
+    "P.029": [
+      {
+        "code": "3_N.35",
+        "dun": "N.35 Kemuning",
+        "state": "Kelantan"
+      }
+    ],
+    "P.031": [
+      {
+        "code": "3_N.42",
+        "dun": "N.42 Dabong",
+        "state": "Kelantan"
+      }
+    ],
+    "P.032": [
+      {
+        "code": "3_N.43",
+        "dun": "N.43 Nenggiri",
+        "state": "Kelantan"
+      },
+      {
+        "code": "3_N.44",
+        "dun": "N.44 Paloh",
+        "state": "Kelantan"
+      },
+      {
+        "code": "3_N.45",
+        "dun": "N.45 Galas",
+        "state": "Kelantan"
+      }
+    ],
+    "P.136": [
+      {
+        "code": "4_N.13",
+        "dun": "N.13 Paya Rumput",
+        "state": "Melaka"
+      }
+    ],
+    "P.138": [
+      {
+        "code": "4_N.19",
+        "dun": "N.19 Kesidang",
+        "state": "Melaka"
+      }
+    ],
+    "P.128": [
+      {
+        "code": "5_N.10",
+        "dun": "N.10 Nilai",
+        "state": "Negeri Sembilan"
+      }
+    ],
+    "P.130": [
+      {
+        "code": "5_N.21",
+        "dun": "N.21 Bukit Kepayang",
+        "state": "Negeri Sembilan"
+      }
+    ],
+    "P.131": [
+      {
+        "code": "5_N.25",
+        "dun": "N.25 Paroi",
+        "state": "Negeri Sembilan"
+      }
+    ],
+    "P.078": [
+      {
+        "code": "6_N.02",
+        "dun": "N.02 Jelai",
+        "state": "Pahang"
+      }
+    ],
+    "P.079": [
+      {
+        "code": "6_N.03",
+        "dun": "N.03 Padang Tengku",
+        "state": "Pahang"
+      }
+    ],
+    "P.080": [
+      {
+        "code": "6_N.06",
+        "dun": "N.06 Batu Talam",
+        "state": "Pahang"
+      }
+    ],
+    "P.081": [
+      {
+        "code": "6_N.09",
+        "dun": "N.09 Tahan",
+        "state": "Pahang"
+      }
+    ],
+    "P.082": [
+      {
+        "code": "6_N.12",
+        "dun": "N.12 Beserah",
+        "state": "Pahang"
+      },
+      {
+        "code": "6_N.13",
+        "dun": "N.13 Semambu",
+        "state": "Pahang"
+      }
+    ],
+    "P.083": [
+      {
+        "code": "6_N.15",
+        "dun": "N.15 Tanjung Lumpur",
+        "state": "Pahang"
+      }
+    ],
+    "P.084": [
+      {
+        "code": "6_N.17",
+        "dun": "N.17 Sungai Lembing",
+        "state": "Pahang"
+      },
+      {
+        "code": "6_N.18",
+        "dun": "N.18 Lepar",
+        "state": "Pahang"
+      }
+    ],
+    "P.085": [
+      {
+        "code": "6_N.22",
+        "dun": "N.22 Bebar",
+        "state": "Pahang"
+      }
+    ],
+    "P.090": [
+      {
+        "code": "6_N.39",
+        "dun": "N.39 Kemayan",
+        "state": "Pahang"
+      }
+    ],
+    "P.091": [
+      {
+        "code": "6_N.40",
+        "dun": "N.40 Bukit Ibam",
+        "state": "Pahang"
+      },
+      {
+        "code": "6_N.41",
+        "dun": "N.41 Muadzam Shah",
+        "state": "Pahang"
+      },
+      {
+        "code": "6_N.42",
+        "dun": "N.42 Tioman",
+        "state": "Pahang"
+      }
+    ],
+    "P.044": [
+      {
+        "code": "7_N.10",
+        "dun": "N.10 Seberang Jaya",
+        "state": "Pulau Pinang"
+      }
+    ],
+    "P.045": [
+      {
+        "code": "7_N.14",
+        "dun": "N.14 Machang Bubuk",
+        "state": "Pulau Pinang"
+      }
+    ],
+    "P.051": [
+      {
+        "code": "7_N.34",
+        "dun": "N.34 Paya Terubong",
+        "state": "Pulau Pinang"
+      }
+    ],
+    "P.053": [
+      {
+        "code": "7_N.38",
+        "dun": "N.38 Bayan Lepas",
+        "state": "Pulau Pinang"
+      }
+    ],
+    "P.054": [
+      {
+        "code": "8_N.02",
+        "dun": "N.02 Temengor",
+        "state": "Perak"
+      }
+    ],
+    "P.055": [
+      {
+        "code": "8_N.03",
+        "dun": "N.03 Kenering",
+        "state": "Perak"
+      }
+    ],
+    "P.062": [
+      {
+        "code": "8_N.21",
+        "dun": "N.21 Lintang",
+        "state": "Perak"
+      }
+    ],
+    "P.063": [
+      {
+        "code": "8_N.23",
+        "dun": "N.23 Manjoi",
+        "state": "Perak"
+      },
+      {
+        "code": "8_N.24",
+        "dun": "N.24 Hulu Kinta",
+        "state": "Perak"
+      }
+    ],
+    "P.071": [
+      {
+        "code": "8_N.45",
+        "dun": "N.45 Simpang Pulai",
+        "state": "Perak"
+      }
+    ],
+    "P.074": [
+      {
+        "code": "8_N.51",
+        "dun": "N.51 Pasir Panjang",
+        "state": "Perak"
+      }
+    ],
+    "P.077": [
+      {
+        "code": "8_N.59",
+        "dun": "N.59 Behrang",
+        "state": "Perak"
+      }
+    ],
+    "P.094": [
+      {
+        "code": "10_N.07",
+        "dun": "N.07 Batang Kali",
+        "state": "Selangor"
+      }
+    ],
+    "P.096": [
+      {
+        "code": "10_N.12",
+        "dun": "N.12 Jeram",
+        "state": "Selangor"
+      }
+    ],
+    "P.097": [
+      {
+        "code": "10_N.13",
+        "dun": "N.13 Kuang",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.14",
+        "dun": "N.14 Rawang",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.15",
+        "dun": "N.15 Taman Templer",
+        "state": "Selangor"
+      }
+    ],
+    "P.098": [
+      {
+        "code": "10_N.17",
+        "dun": "N.17 Gombak Setia",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.18",
+        "dun": "N.18 Hulu Kelang",
+        "state": "Selangor"
+      }
+    ],
+    "P.099": [
+      {
+        "code": "10_N.19",
+        "dun": "N.19 Bukit Antarabangsa",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.20",
+        "dun": "N.20 Lembah Jaya",
+        "state": "Selangor"
+      }
+    ],
+    "P.100": [
+      {
+        "code": "10_N.21",
+        "dun": "N.21 Pandan Indah",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.22",
+        "dun": "N.22 Teratai",
+        "state": "Selangor"
+      }
+    ],
+    "P.101": [
+      {
+        "code": "10_N.23",
+        "dun": "N.23 Dusun Tua",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.24",
+        "dun": "N.24 Semenyih",
+        "state": "Selangor"
+      }
+    ],
+    "P.102": [
+      {
+        "code": "10_N.25",
+        "dun": "N.25 Kajang",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.26",
+        "dun": "N.26 Sungai Ramal",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.27",
+        "dun": "N.27 Balakong",
+        "state": "Selangor"
+      }
+    ],
+    "P.103": [
+      {
+        "code": "10_N.28",
+        "dun": "N.28 Seri Kembangan",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.29",
+        "dun": "N.29 Seri Serdang",
+        "state": "Selangor"
+      }
+    ],
+    "P.104": [
+      {
+        "code": "10_N.30",
+        "dun": "N.30 Kinrara",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.31",
+        "dun": "N.31 Subang Jaya",
+        "state": "Selangor"
+      }
+    ],
+    "P.105": [
+      {
+        "code": "10_N.32",
+        "dun": "N.32 Seri Setia",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.33",
+        "dun": "N.33 Taman Medan",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.34",
+        "dun": "N.34 Bukit Gasing",
+        "state": "Selangor"
+      }
+    ],
+    "P.106": [
+      {
+        "code": "10_N.36",
+        "dun": "N.36 Bandar Utama",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.37",
+        "dun": "N.37 Bukit Lanjan",
+        "state": "Selangor"
+      }
+    ],
+    "P.107": [
+      {
+        "code": "10_N.38",
+        "dun": "N.38 Paya Jaras",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.39",
+        "dun": "N.39 Kota Damansara",
+        "state": "Selangor"
+      }
+    ],
+    "P.108": [
+      {
+        "code": "10_N.40",
+        "dun": "N.40 Kota Anggerik",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.41",
+        "dun": "N.41 Batu Tiga",
+        "state": "Selangor"
+      }
+    ],
+    "P.109": [
+      {
+        "code": "10_N.42",
+        "dun": "N.42 Meru",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.43",
+        "dun": "N.43 Sementa",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.44",
+        "dun": "N.44 Selat Klang",
+        "state": "Selangor"
+      }
+    ],
+    "P.110": [
+      {
+        "code": "10_N.45",
+        "dun": "N.45 Bandar Baru Klang",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.46",
+        "dun": "N.46 Pelabuhan Klang",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.47",
+        "dun": "N.47 Pandamaran",
+        "state": "Selangor"
+      }
+    ],
+    "P.111": [
+      {
+        "code": "10_N.48",
+        "dun": "N.48 Sentosa",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.49",
+        "dun": "N.49 Sungai Kandis",
+        "state": "Selangor"
+      },
+      {
+        "code": "10_N.50",
+        "dun": "N.50 Kota Kemuning",
+        "state": "Selangor"
+      }
+    ],
+    "P.112": [
+      {
+        "code": "10_N.51",
+        "dun": "N.51 Sijangkang",
+        "state": "Selangor"
+      }
+    ],
+    "P.113": [
+      {
+        "code": "10_N.55",
+        "dun": "N.55 Dengkil",
+        "state": "Selangor"
+      }
+    ],
+    "P.033": [
+      {
+        "code": "11_N.02",
+        "dun": "N.02 Kota Putera",
+        "state": "Terengganu"
+      }
+    ],
+    "P.035": [
+      {
+        "code": "11_N.09",
+        "dun": "N.09 Tepuh",
+        "state": "Terengganu"
+      },
+      {
+        "code": "11_N.11",
+        "dun": "N.11 Seberang Takir",
+        "state": "Terengganu"
+      }
+    ],
+    "P.036": [
+      {
+        "code": "11_N.16",
+        "dun": "N.16 Batu Buruk",
+        "state": "Terengganu"
+      }
+    ],
+    "P.037": [
+      {
+        "code": "11_N.17",
+        "dun": "N.17 Alur Limbat",
+        "state": "Terengganu"
+      }
+    ],
+    "P.038": [
+      {
+        "code": "11_N.21",
+        "dun": "N.21 Telemung",
+        "state": "Terengganu"
+      }
+    ],
+    "P.039": [
+      {
+        "code": "11_N.25",
+        "dun": "N.25 Bukit Besi",
+        "state": "Terengganu"
+      },
+      {
+        "code": "11_N.26",
+        "dun": "N.26 Rantau Abang",
+        "state": "Terengganu"
+      },
+      {
+        "code": "11_N.28",
+        "dun": "N.28 Paka",
+        "state": "Terengganu"
+      }
+    ],
+    "P.040": [
+      {
+        "code": "11_N.30",
+        "dun": "N.30 Kijal",
+        "state": "Terengganu"
+      },
+      {
+        "code": "11_N.31",
+        "dun": "N.31 Cukai",
+        "state": "Terengganu"
+      },
+      {
+        "code": "11_N.32",
+        "dun": "N.32 Air Putih",
+        "state": "Terengganu"
+      }
+    ],
+    "P.167": [
+      {
+        "code": "12_N.02",
+        "dun": "N.02 Bengkoka",
+        "state": "Sabah"
+      }
+    ],
+    "P.171": [
+      {
+        "code": "12_N.16",
+        "dun": "N.16 Karambunai",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.18",
+        "dun": "N.18 Inanam",
+        "state": "Sabah"
+      }
+    ],
+    "P.174": [
+      {
+        "code": "12_N.25",
+        "dun": "N.25 Kapayan",
+        "state": "Sabah"
+      }
+    ],
+    "P.178": [
+      {
+        "code": "12_N.34",
+        "dun": "N.34 Lumadan",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.35",
+        "dun": "N.35 Sindumin",
+        "state": "Sabah"
+      }
+    ],
+    "P.179": [
+      {
+        "code": "12_N.36",
+        "dun": "N.36 Kundasang",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.38",
+        "dun": "N.38 Paginatan",
+        "state": "Sabah"
+      }
+    ],
+    "P.180": [
+      {
+        "code": "12_N.39",
+        "dun": "N.39 Tambunan",
+        "state": "Sabah"
+      }
+    ],
+    "P.181": [
+      {
+        "code": "12_N.43",
+        "dun": "N.43 Kemabong",
+        "state": "Sabah"
+      }
+    ],
+    "P.182": [
+      {
+        "code": "12_N.44",
+        "dun": "N.44 Tulid",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.45",
+        "dun": "N.45 Sook",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.46",
+        "dun": "N.46 Nabawan",
+        "state": "Sabah"
+      }
+    ],
+    "P.183": [
+      {
+        "code": "12_N.47",
+        "dun": "N.47 Telupid",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.48",
+        "dun": "N.48 Sugut",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.49",
+        "dun": "N.49 Labuk",
+        "state": "Sabah"
+      }
+    ],
+    "P.184": [
+      {
+        "code": "12_N.52",
+        "dun": "N.52 Sungai Sibuga",
+        "state": "Sabah"
+      }
+    ],
+    "P.185": [
+      {
+        "code": "12_N.53",
+        "dun": "N.53 Sekong",
+        "state": "Sabah"
+      }
+    ],
+    "P.186": [
+      {
+        "code": "12_N.55",
+        "dun": "N.55 Elopura",
+        "state": "Sabah"
+      }
+    ],
+    "P.187": [
+      {
+        "code": "12_N.57",
+        "dun": "N.57 Kuamut",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.58",
+        "dun": "N.58 Lamag",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.59",
+        "dun": "N.59 Sukau",
+        "state": "Sabah"
+      }
+    ],
+    "P.188": [
+      {
+        "code": "12_N.60",
+        "dun": "N.60 Tungku",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.61",
+        "dun": "N.61 Segama",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.62",
+        "dun": "N.62 Silam",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.63",
+        "dun": "N.63 Kunak",
+        "state": "Sabah"
+      }
+    ],
+    "P.189": [
+      {
+        "code": "12_N.66",
+        "dun": "N.66 Bugaya",
+        "state": "Sabah"
+      }
+    ],
+    "P.190": [
+      {
+        "code": "12_N.67",
+        "dun": "N.67 Balung",
+        "state": "Sabah"
+      },
+      {
+        "code": "12_N.68",
+        "dun": "N.68 Apas",
+        "state": "Sabah"
+      }
+    ],
+    "P.191": [
+      {
+        "code": "12_N.73",
+        "dun": "N.73 Sebatik",
+        "state": "Sabah"
+      }
+    ],
+    "P.192": [
+      {
+        "code": "13_N.01",
+        "dun": "N.01 Opar",
+        "state": "Sarawak"
+      }
+    ],
+    "P.194": [
+      {
+        "code": "13_N.06",
+        "dun": "N.06 Tupong",
+        "state": "Sarawak"
+      }
+    ],
+    "P.196": [
+      {
+        "code": "13_N.14",
+        "dun": "N.14 Batu Kawah",
+        "state": "Sarawak"
+      }
+    ],
+    "P.197": [
+      {
+        "code": "13_N.17",
+        "dun": "N.17 Stakan",
+        "state": "Sarawak"
+      }
+    ],
+    "P.202": [
+      {
+        "code": "13_N.30",
+        "dun": "N.30 Balai Ringin",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.31",
+        "dun": "N.31 Bukit Begunan",
+        "state": "Sarawak"
+      }
+    ],
+    "P.203": [
+      {
+        "code": "13_N.33",
+        "dun": "N.33 Engkilili",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.34",
+        "dun": "N.34 Batang Ai",
+        "state": "Sarawak"
+      }
+    ],
+    "P.206": [
+      {
+        "code": "13_N.42",
+        "dun": "N.42 Semop",
+        "state": "Sarawak"
+      }
+    ],
+    "P.207": [
+      {
+        "code": "13_N.43",
+        "dun": "N.43 Daro",
+        "state": "Sarawak"
+      }
+    ],
+    "P.209": [
+      {
+        "code": "13_N.48",
+        "dun": "N.48 Meluan",
+        "state": "Sarawak"
+      }
+    ],
+    "P.210": [
+      {
+        "code": "13_N.49",
+        "dun": "N.49 Ngemah",
+        "state": "Sarawak"
+      }
+    ],
+    "P.212": [
+      {
+        "code": "13_N.53",
+        "dun": "N.53 Bawang Assan",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.55",
+        "dun": "N.55 Nangka",
+        "state": "Sarawak"
+      }
+    ],
+    "P.213": [
+      {
+        "code": "13_N.57",
+        "dun": "N.57 Tellian",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.58",
+        "dun": "N.58 Balingian",
+        "state": "Sarawak"
+      }
+    ],
+    "P.214": [
+      {
+        "code": "13_N.59",
+        "dun": "N.59 Tamin",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.60",
+        "dun": "N.60 Kakus",
+        "state": "Sarawak"
+      }
+    ],
+    "P.215": [
+      {
+        "code": "13_N.61",
+        "dun": "N.61 Pelagus",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.62",
+        "dun": "N.62 Katibas",
+        "state": "Sarawak"
+      }
+    ],
+    "P.216": [
+      {
+        "code": "13_N.64",
+        "dun": "N.64 Baleh",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.65",
+        "dun": "N.65 Belaga",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.66",
+        "dun": "N.66 Murum",
+        "state": "Sarawak"
+      }
+    ],
+    "P.217": [
+      {
+        "code": "13_N.68",
+        "dun": "N.68 Tanjong Batu",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.69",
+        "dun": "N.69 Kemena",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.70",
+        "dun": "N.70 Samalaju",
+        "state": "Sarawak"
+      }
+    ],
+    "P.218": [
+      {
+        "code": "13_N.71",
+        "dun": "N.71 Bekenu",
+        "state": "Sarawak"
+      }
+    ],
+    "P.219": [
+      {
+        "code": "13_N.75",
+        "dun": "N.75 Senadin",
+        "state": "Sarawak"
+      }
+    ],
+    "P.220": [
+      {
+        "code": "13_N.76",
+        "dun": "N.76 Marudi",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.77",
+        "dun": "N.77 Telang Usan",
+        "state": "Sarawak"
+      },
+      {
+        "code": "13_N.78",
+        "dun": "N.78 Mulu",
+        "state": "Sarawak"
+      }
+    ],
+    "P.221": [
+      {
+        "code": "13_N.80",
+        "dun": "N.80 Batu Danau",
+        "state": "Sarawak"
+      }
+    ],
+    "P.222": [
+      {
+        "code": "13_N.81",
+        "dun": "N.81 Ba`Kelalan",
+        "state": "Sarawak"
+      }
+    ]
+  },
+  "parlimenStats": {
+    "P.006": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.010": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.013": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.014": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.015": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.017": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.018": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.019": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.020": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.021": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.024": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.025": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.027": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.029": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.031": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.032": {
+      "total": 4,
+      "withData": 1,
+      "missing": 3
+    },
+    "P.033": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.035": {
+      "total": 4,
+      "withData": 2,
+      "missing": 2
+    },
+    "P.036": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.037": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.038": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.039": {
+      "total": 4,
+      "withData": 1,
+      "missing": 3
+    },
+    "P.040": {
+      "total": 4,
+      "withData": 1,
+      "missing": 3
+    },
+    "P.044": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.045": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.051": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.053": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.054": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.055": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.062": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.063": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.071": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.074": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.077": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.078": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.079": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.080": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.081": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.082": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.083": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.084": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.085": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.090": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.091": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.094": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.096": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.097": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.098": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.099": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.100": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.101": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.102": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.103": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.104": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.105": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.106": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.107": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.108": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.109": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.110": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.111": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.112": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.113": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.114": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.115": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.116": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.117": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.118": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.119": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.120": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.121": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.122": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.123": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.124": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.125": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.128": {
+      "total": 6,
+      "withData": 5,
+      "missing": 1
+    },
+    "P.130": {
+      "total": 5,
+      "withData": 4,
+      "missing": 1
+    },
+    "P.131": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.136": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.138": {
+      "total": 5,
+      "withData": 4,
+      "missing": 1
+    },
+    "P.142": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.143": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.149": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.150": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.152": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.154": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.156": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.158": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.159": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.160": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.161": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.162": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.163": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.166": {
+      "total": 1,
+      "withData": 0,
+      "missing": 1
+    },
+    "P.167": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.171": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.174": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.178": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.179": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.180": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.181": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.182": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.183": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.184": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.185": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.186": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.187": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.188": {
+      "total": 4,
+      "withData": 0,
+      "missing": 4
+    },
+    "P.189": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.190": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.191": {
+      "total": 4,
+      "withData": 3,
+      "missing": 1
+    },
+    "P.192": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.194": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.196": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.197": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.202": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.203": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.206": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.207": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.209": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.210": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.212": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.213": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.214": {
+      "total": 2,
+      "withData": 0,
+      "missing": 2
+    },
+    "P.215": {
+      "total": 3,
+      "withData": 1,
+      "missing": 2
+    },
+    "P.216": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.217": {
+      "total": 4,
+      "withData": 1,
+      "missing": 3
+    },
+    "P.218": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.219": {
+      "total": 3,
+      "withData": 2,
+      "missing": 1
+    },
+    "P.220": {
+      "total": 3,
+      "withData": 0,
+      "missing": 3
+    },
+    "P.221": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    },
+    "P.222": {
+      "total": 2,
+      "withData": 1,
+      "missing": 1
+    }
+  }
+}
