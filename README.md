@@ -36,6 +36,20 @@ An interactive geospatial dashboard that visualizes Malaysia's demographic, econ
   - Detailed feature information panels
   - Missing data indicators
 
+## 📸 Screenshots
+
+### Demo Video
+📹 [Watch Demo Video](demo-video.mp4)
+
+### Overview Dashboard
+![Overview Dashboard](01-overview-default.png)
+
+### Population Layer Visualization
+![Population Layer](02-layer-population-district.png)
+
+### DUN Boundary with Site Suitability Score
+![DUN Suitability](03-boundary-dun-suitability.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -62,7 +76,7 @@ An interactive geospatial dashboard that visualizes Malaysia's demographic, econ
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5173` (or the port shown in terminal)
+   Navigate to `http://localhost:3001` (or the port shown in terminal)
 
 ### Build for Production
 
@@ -136,7 +150,7 @@ Higher scores indicate more favorable conditions for business establishment.
 
 ## 📝 License
 
-[Add your license here]
+MIT License - See LICENSE file for details
 
 ## 🤝 Contributing
 
@@ -144,7 +158,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-[Add your contact information or project maintainer details]
+**Arif Fahmi**  
+📧 bookmyrumah@gmail.com
 
 ---
 

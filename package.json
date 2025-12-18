@@ -10,7 +10,12 @@
     "enrich-data": "node scripts/enrich-geojson.js all",
     "enrich-district": "node scripts/enrich-geojson.js district",
     "enrich-parliament": "node scripts/enrich-geojson.js parliament",
-    "enrich-dun": "node scripts/enrich-geojson.js dun"
+    "enrich-dun": "node scripts/enrich-geojson.js dun",
+    "screenshots": "node scripts/take-screenshots.js",
+    "screenshots:auto": "node scripts/take-screenshots.js --start-server",
+    "record-video": "node scripts/record-video.js",
+    "record-video:auto": "node scripts/record-video.js --start-server",
+    "create-video": "node scripts/create-video-from-frames.js"
   },
   "dependencies": {
     "react": "^19.2.3",
@@ -25,6 +30,7 @@
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
+    "puppeteer": "^23.0.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }

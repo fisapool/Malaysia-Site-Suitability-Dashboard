@@ -53,3 +53,8 @@ __pycache__/
 venv/
 env/
 ENV/
+
+# Screenshots (uncomment if you don't want to commit demo screenshots)
+# screenshots/
+docs\SCREENSHOTS.md
+take-screenshots.js
